@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-neo4j
+swr.cn-south-1.myhuaweicloud.com/ascendhub/mindie:1.0.RC2-800I-A2-arm64
